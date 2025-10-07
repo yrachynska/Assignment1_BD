@@ -18,3 +18,5 @@ Rooms cheaper than the average price of their type,
 First 5 such bookings by date
 
 "One-time budget room bookings rating by date"
+
+![](query_result.png)
